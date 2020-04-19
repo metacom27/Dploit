@@ -18,3 +18,6 @@ exploit
 
 Video demo Buffer Overflow Xinfire DVD Player
 https://youtu.be/IqTO7WNJO24
+
+downloads software
+https://download.cnet.com/Xinfire-TV-Player-Pro/3000-13632_4-75986988.html
