@@ -1,4 +1,4 @@
-This repository is for the Metasploit 
+This repository is for the Metasploit especially in PDF attack.
 
 add to metasploit /modules/exploits/windows/fileformat/
 
